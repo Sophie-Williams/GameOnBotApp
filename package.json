@@ -1,0 +1,25 @@
+{
+  "name": "gameonbotapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogit82/GameOnBotApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jogit82/GameOnBotApp/issues"
+  },
+  "homepage": "https://github.com/jogit82/GameOnBotApp#readme",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "botbuilder-azure": "^3.0.4",
+    "https": "^1.0.0",
+    "restify": "^6.3.2"
+  }
+}
